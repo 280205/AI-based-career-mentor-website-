@@ -23,5 +23,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
+    "@tensorflow/tfjs": "^4.0.0"
   }
 }
